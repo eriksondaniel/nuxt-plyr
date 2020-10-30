@@ -14,11 +14,11 @@ export default {
   },
   css: [
       'plyr/dist/plyr.css',
-      '@/src/assets/css/overwrite.css',
-      '@/src/assets/css/global.css'
+      '@/assets/css/overwrite.css',
+      '@/assets/css/global.css'
   ],
   plugins: [
-      '@/src/plugins/nuxt-plyr'
+      '@/plugins/nuxt-plyr'
   ],
   components: true,
   buildModules: [
