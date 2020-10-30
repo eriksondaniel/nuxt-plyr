@@ -30,6 +30,10 @@ npm install
 npm run dev
 ```
 
+## Live
+
+<a href="https://nuxtplyr.vercel.app/" target="_blank">Live Demo</a>
+
 ## License
 
 <a href="https://github.com/dyprast/nuxt-plyr/blob/main/LICENSE" target="_blank">MIT License</a>
