@@ -1,20 +1,35 @@
-# nuxt-plyr
+# Nuxt Plyr
 
-## Build Setup
+<p>
+  <a href="#" target="_blank">
+    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  </a>
+</p>
 
-```bash
-# install dependencies
-$ npm install
+> Video player with nuxtjs
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## Installation
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+🏷 Clone this repository
 
-# generate static project
-$ npm run generate
+```sh
+git clone https://github.com/dyprast/nuxt-stisla.git
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+📚 Install modules
+
+```sh
+npm install
+```
+
+## Usage
+
+💡 Running application
+
+```sh
+npm run dev
+```
+
+## License
+
+<a href="https://github.com/dyprast/nuxt-plyr/blob/main/LICENSE" target="_blank">MIT License</a>
