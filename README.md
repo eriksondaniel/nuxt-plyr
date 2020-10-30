@@ -6,7 +6,13 @@
   </a>
 </p>
 
-> Video player with nuxtjs
+Video player with nuxtjs
+
+It uses [plyr](https://plyr.io) by [sampotts](https://github.com/sampotts) v3 for the players.
+
+Supported player types: HTML5 video, HTML5 audio, YouTube (div & progressive
+enhancement), and Vimeo (div & progressive enhancement).
+
 
 ## Installation
 
