@@ -1,9 +1,14 @@
 .plyr__control:hover {
-    background: #41b883 !important;
+    background: #3b8070 !important;
 }
 .plyr__control--overlaid {
-    background: #41b883 !important;
+    background: #3b8070 !important;
+    padding: 20px !important;
+}
+.plyr__control--overlaid svg {
+    width: 30px !important;
+    height: 30px !important;
 }
 .plyr--full-ui input[type=range] {
-    color: 	#41b883 !important;
+    color: 	#3b8070 !important;
 }
