@@ -1,0 +1,9 @@
+.plyr__control:hover {
+    background: #41b883 !important;
+}
+.plyr__control--overlaid {
+    background: #41b883 !important;
+}
+.plyr--full-ui input[type=range] {
+    color: 	#41b883 !important;
+}

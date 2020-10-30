@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-plyr",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "plyr": "^3.6.2",
+    "vue-plyr": "^6.0.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.1.0"
+  }
+}
