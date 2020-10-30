@@ -1,4 +1,6 @@
 {
+	"author": "dyprast",
+	"description": "Video player with nuxtjs",
   "name": "nuxt-plyr",
   "version": "1.0.0",
   "private": true,
