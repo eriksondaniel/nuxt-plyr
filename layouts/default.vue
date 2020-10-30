@@ -10,7 +10,7 @@
 </template>
 
 <script>
-    import Header from "@/components/Layouts/Header"
+    import Header from "@/src/components/Layouts/Header"
     export default {
         components: {
             Header

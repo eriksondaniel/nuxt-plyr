@@ -15,8 +15,8 @@
 </template>
 
 <script>
-    import Logo from "@/components/Logo"
-    import IconGithub from "@/components/Icons/Github"
+    import Logo from "@/src/components/Logo"
+    import IconGithub from "@/src/components/Icons/Github"
 
     export default {
         components: {
