@@ -13,6 +13,7 @@ It uses [plyr](https://plyr.io) by [sampotts](https://github.com/sampotts) v3 fo
 Supported player types: HTML5 video, HTML5 audio, YouTube (div & progressive
 enhancement), and Vimeo (div & progressive enhancement).
 
+[![@dyprast/nuxt-plyr](https://i.ibb.co/M11rcLx/nuxt-plyr.png)](https://nuxtplyr.vercel.app)
 
 ## Installation
 
