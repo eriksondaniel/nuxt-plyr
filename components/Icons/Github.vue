@@ -1,6 +1,6 @@
 <template>
   <svg width="40" height="40" viewBox="0 0 128 128">
-    <g fill="#ffffff">
+    <g fill="#ebf4f1">
       <path
         fill-rule="evenodd"
         clip-rule="evenodd"
