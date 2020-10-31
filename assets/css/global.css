@@ -21,6 +21,10 @@ body {
     color: #ebf4f1;
 }
 
+.text-white {
+    color: #ebf4f1;
+}
+
 .heading-stroke {
     position: relative;
     display: inline-block;

@@ -12,3 +12,7 @@
 .plyr--full-ui input[type=range] {
     color: 	#3b8070 !important;
 }
+
+.plyr--audio .plyr__controls {
+    background-color: #ebf4f1;
+}
