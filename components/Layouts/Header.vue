@@ -1,7 +1,7 @@
 <template>
   <header class="flex items-center justify-between">
     <a href="">
-      <h2 class="text-5xl font-bold uppercase flex items-center">
+      <h2 class="text-3xl md:text-5xl font-bold uppercase flex items-center">
         <span class="heading-stroke" data-title="Nuxt Plyr"> Nuxt Plyr </span>
       </h2>
     </a>
