@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed w-full h-full">
+  <div class="relative md:fixed w-full h-full">
     <div class="container mx-auto px-4 py-8">
       <Header />
       <main class="mt-8">

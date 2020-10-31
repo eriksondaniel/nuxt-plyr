@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="grid grid-cols-2 gap-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       <div class="bg-gray-800 overflow-hidden rounded-xl">
         <div class="py-3 text-center">
           <div
@@ -58,7 +58,7 @@
         </vue-plyr>
       </div>
     </div>
-    <div class="flex justify-center mt-16">
+    <div class="flex justify-center my-12 md:my-16">
       <div class="bg-gray-800 overflow-hidden rounded-xl">
         <vue-plyr>
         <audio>
